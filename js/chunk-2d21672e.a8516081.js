@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21672e"],{c308:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  字典管理\n")])},u=[],a={data:function(){return{}}},r=a,i=t("2877"),o=Object(i["a"])(r,c,u,!1,null,"b5efa5c0",null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d21672e.a8516081.js.map
